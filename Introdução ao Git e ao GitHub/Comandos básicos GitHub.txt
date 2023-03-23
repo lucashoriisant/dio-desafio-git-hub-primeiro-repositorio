@@ -16,5 +16,5 @@ Para clonar um projeto do ambiente remoto para o ambiente local, é necessário:
 - Digite 'git status', para verificar se houve preparação para realizar o 'pull';
 - Digite 'git push origin main', para enviar o repositório do Git local para o repositório do GitHub remoto;
 
-PARABÉNS, VOCÊ POSSUE APRENDEU OS COMANDOS BÁSICOS!!!!!!!!
+PARABÉNS, VOCÊ APRENDEU OS COMANDOS BÁSICOS!!!!!!!!
 :D
